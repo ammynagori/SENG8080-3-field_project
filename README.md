@@ -1,4 +1,5 @@
 # contributors
+Mr. Amaninder Nagori
 Mr. Varun Bansal
 Mr. Sujay Silas Macwan
 Mr. Kranthi Kiran B
